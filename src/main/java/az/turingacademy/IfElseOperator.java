@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class IfElseOperator {
 
     public static void main(String[] args) {
-        //input
+      /*  //input
         Scanner scanner = new Scanner(System.in);
         System.out.print("Bura reqem yazin: ");
         int value= scanner.nextInt();
@@ -19,6 +19,19 @@ public class IfElseOperator {
         }else{
             result="Eded 3-e bolunur ve qaliq 2-dir";
         }
-        System.out.println(result);
+        System.out.println(result); */
+
+        for (int i = 1; i <= 3; i++) {
+            for (int j = 1; j <=3; j++) {
+                if (i==j) {
+                    System.out.print("X ");
+                } else if (i+j==4) {
+                    System.out.print("O ");
+                }else {
+                    System.out.print("* ");
+                }
+            }
+            System.out.println();
+        }
     }
 }
