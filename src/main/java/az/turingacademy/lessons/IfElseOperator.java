@@ -1,6 +1,4 @@
-package az.turingacademy;
-
-import java.util.Scanner;
+package az.turingacademy.lessons;
 
 public class IfElseOperator {
 

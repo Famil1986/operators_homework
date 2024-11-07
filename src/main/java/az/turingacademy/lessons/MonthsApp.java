@@ -1,4 +1,4 @@
-package az.turingacademy;
+package az.turingacademy.lessons;
 
 public class MonthsApp {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package az.turingacademy;
+package az.turingacademy.lessons;
 
 public class StringApp {
     public static void main(String [] args) {

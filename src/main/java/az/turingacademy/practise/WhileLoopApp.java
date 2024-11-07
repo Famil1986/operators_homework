@@ -1,4 +1,4 @@
-package az.turingacademy;
+package az.turingacademy.practise;
 
 public class WhileLoopApp {
     public static void main(String[] args) {
