@@ -1,4 +1,7 @@
 package az.turingacademy.practise.DogandCat;
 
-public class Animal {
+abstract class Animal {
+    public void makeSound() {
+        System.out.println("Animal makes a sound");
+    }
 }

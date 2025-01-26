@@ -1,4 +1,7 @@
 package az.turingacademy.practise.DogandCat;
 
-public class Dog {
+class Dog extends Animal {
+    public void makeSound() {
+        System.out.println("Dog barks");
+    }
 }

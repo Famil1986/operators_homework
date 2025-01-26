@@ -1,4 +1,4 @@
 package az.turingacademy.taskspumble.BankBalanceExceptions;
 
-public enum Currency {
-}
+public enum Currency { AZN, USD, EUR }
+
